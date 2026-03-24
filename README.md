@@ -1,4 +1,4 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+![Demand an end to apartheid and genocide](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Demand_an_end_to_apartheid_and_genocide-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
 ### Hi, I'm Soham 👋
 
